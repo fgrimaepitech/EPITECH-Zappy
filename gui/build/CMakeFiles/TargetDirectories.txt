@@ -1,0 +1,3 @@
+/Users/bluefox/Desktop/epitech/delivery/B-YEP-400-MAR-4-1-zappy-martin.ramdane/gui/build/CMakeFiles/zappy_gui.dir
+/Users/bluefox/Desktop/epitech/delivery/B-YEP-400-MAR-4-1-zappy-martin.ramdane/gui/build/CMakeFiles/edit_cache.dir
+/Users/bluefox/Desktop/epitech/delivery/B-YEP-400-MAR-4-1-zappy-martin.ramdane/gui/build/CMakeFiles/rebuild_cache.dir
